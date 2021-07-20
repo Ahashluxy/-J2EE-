@@ -1,0 +1,207 @@
+#all{
+	width: 1024px;
+	height: 100%;
+	margin: 0 auto;
+	background-image: url(../images/Blurry-city-lights1337.jpg);
+	
+}
+body{
+   background-color: Ivory;
+}
+ul{
+  list-style-type: none;
+}
+#nav{
+	width: 100%;
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+#nav ul li{
+	float: left;
+}
+#nav ul li a{
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#nav ul li a:hover{
+	
+    background-color: #111;
+}
+#nav li a img{
+ margin: -13px;
+ padding: 0px;
+ width: 50px;
+ height: 50px;
+}
+#hr1{
+   margin-top: 30px;
+   width: 1024px;
+   size:auto;
+}
+#hr2{
+   margin-top: 9px;
+   width: 1024px;
+   size:auto;
+}
+#scrollBody{
+height: 25px;
+line-height:25px;
+overflow-y:hidden;
+margin-left: 30px;
+text-align: center;
+
+}
+#scroll{
+
+background-color: #222222;
+color:MintCream;
+border-radius: 8px;
+width: 700px;
+margin: -7px auto;
+}
+#scroll img{
+   width: 25px;
+   padding: 0px;
+   margin-top: -25px;
+}
+.gg{
+	width: 300px;
+	height: 300px;
+	float: left;
+	
+}
+.gg1{
+   opacity: 0.9;
+   background:rgba(0, 0, 0);
+   height: 310px;
+   color: ghostwhite;
+   
+   border-radius: 8px;
+   width: 300px;
+   margin-top: 25px ;
+   margin-left: 10px;
+}
+.gg1 marquee{
+  
+  height: inherit;
+  text-align: center
+}
+.content{
+   width: 1000px;
+   
+}
+.gz{
+    border-radius: 20px;
+    margin-top: 66px;
+    width: 300px;
+	height: 340px;
+	float: left;
+	
+	margin-left: 10px;
+}
+.left{
+ width: 400px;
+ float: left;
+}
+#fon{
+  position: relative;
+  
+  color: ghostwhite;
+  font-size: 20px;	
+  left: 12px;
+  top: -60px;
+  float: left;
+}
+.right{
+  width: 600px;
+  float: left;
+  padding: 0px;
+  margin-top: 6px;
+  margin-left: -80px;
+}
+video{
+    margin-top: -20px;
+    width: 300px;
+    height: 230px;
+    
+}
+table img{
+  position: relative;
+  top: -15px;
+  border-radius: 50px;
+  padding-top: 30px;
+  margin-top: 0px;
+  width: 342px;
+  height: 310px;
+}
+#gwc{
+
+  text-align: center;
+}
+.right input{
+   width: 80px;
+}
+
+
+.SJtable{
+   
+}
+.SJcontent{
+  
+  color: whitesmoke;
+  margin: 30px auto;
+}
+.KHcontent{
+
+  color: whitesmoke;
+   margin: 30px auto;
+}
+.GWCcontent{
+
+  color: whitesmoke;
+  margin:30px auto;
+  
+}
+
+.UScontent{
+
+  color: whitesmoke;
+  margin: 30px auto;
+}
+
+footer{
+    
+	clear:both; 
+	width: 1000px;
+	height: 200px;
+	margin: -20 auto;
+	text-align: center;
+	margin-top: -10px;
+	
+}
+footer div{
+   
+   padding:0px;
+   margin-top: -90px;
+   margin-left: 26px;
+   font-size: 2px;
+   
+}
+footer h1 span{
+	margin-left: 30px;
+}
+footer h1 span a{
+	text-decoration: none;
+	 color:#333;
+	 	 font-size: 14px;
+	 line-height: 200px;
+}
+footer h1 span a:hover{
+	color:red;
+}
